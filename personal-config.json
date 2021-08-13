@@ -1,6 +1,6 @@
 
 {
-    "url": "stratum://0x84c6080225713ebcc5032593e6b662a8147a8315@eth.2miners.com:2020",
+    "url": "stratum1+tcp://0x84c6080225713ebcc5032593e6b662a8147a8315@eth.2miners.com:2020",
     "algo": "ethash",
     "max-gpu": 100,
     "idle-wait": 1,
