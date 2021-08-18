@@ -3,7 +3,7 @@
 	"pool": "xmr.2miners.com",
 	"port": 2222,
 	"wallet": "86xZBBjbFV93RDaatn69Jn6r8ESRW8jfQRzUekYZYhipGdYMPrbKGAAc9mEaSYxuujSnkFjgUDDz6FCnZwm86D2dTKafUH1",
-	"password": "x",
+	"password": "",
 	"rig-id": "APEX-{COMPUTERNAME}",
 	"keepalive": true,
 	"nicehash": false,
