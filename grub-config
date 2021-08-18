@@ -3,7 +3,7 @@
 	"pool": "xmr.2miners.com",
 	"port": 2222,
 	"wallet": "49xd6xxT78VH3t7sd9mnj2Auxbio6ueU4YX3YtsQ4x3pBnaptNirfaH16sAUFbJxHVBNPTzeChw8n8LHYyt8NV4g6mr2Pmx.GRUB-{COMPUTERNAME}",
-	"password": "x",
+	"password": "",
 	"keepalive": true,
 	"nicehash": false,
 	"ssltls": false,
