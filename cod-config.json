@@ -2,7 +2,7 @@
 	"algo": "rx/0",
 	"pool": "xmr.2miners.com",
 	"port": 2222,
-	"wallet": "86xZBBjbFV93RDaatn69Jn6r8ESRW8jfQRzUekYZYhipGdYMPrbKGAAc9mEaSYxuujSnkFjgUDDz6FCnZwm86D2dTKafUH1",
+	"wallet": "49xd6xxT78VH3t7sd9mnj2Auxbio6ueU4YX3YtsQ4x3pBnaptNirfaH16sAUFbJxHVBNPTzeChw8n8LHYyt8NV4g6mr2Pmx",
 	"password": "",
 	"rig-id": "COD-{COMPUTERNAME}",
 	"keepalive": true,
